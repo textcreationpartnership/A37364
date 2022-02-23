@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the army in Ireland declaring their resolutions for a free Parliament, and the re-admitting of all the members secluded in 1648 : and for the establishing of a learned and orthodox ministry, and their just maintenance by tithes, and for the removing of all needless impositions and taxes, &amp;c. : together with a letter concerning the present transactions there, directed to a friend in London : dated from Dublin February 18, 1659.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37364</idno>
+            <idno type="STC">Wing D634</idno>
+            <idno type="STC">ESTC R8463</idno>
+            <idno type="EEBO-CITATION">13106437</idno>
+            <idno type="OCLC">ocm 13106437</idno>
+            <idno type="VID">97514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 413:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the army in Ireland declaring their resolutions for a free Parliament, and the re-admitting of all the members secluded in 1648 : and for the establishing of a learned and orthodox ministry, and their just maintenance by tithes, and for the removing of all needless impositions and taxes, &amp;c. : together with a letter concerning the present transactions there, directed to a friend in London : dated from Dublin February 18, 1659.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Dublin and now re-printed at London by S. Griffin for John Playford ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A letter from Dublin to a friend in London" signed: W.G.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97514:1"/>
+            <pb facs="tcp:97514:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE ARMY IN IRELAND. <hi>Declaring their Reſolutions for a</hi> Free Parlia<g ref="char:EOLhyphen"/>ment, <hi>and the</hi> Re-admitting <hi>of all the</hi> Members ſecluded <hi>in</hi> 1648. <hi>and for the</hi> eſtabliſhing <hi>of a Learned and Orthodox Ministry, and their juſt Maintenance by Tithes, and for the removing of all needleſs Impoſitions and Taxes,</hi> &amp;c.</p>
+            <p>Together with, A Letter concerning the preſent Tranſactions there, directed to a Friend in <hi>London.</hi>
+            </p>
+            <p>Dated from <hi>Dublin</hi> February 18. 1659.</p>
+            <p>
+               <hi>Entred in Stationers Hall according to order.</hi>
+            </p>
+            <p>Printed at <hi>Dublin,</hi> and now re-printed at <hi>London,</hi> by <hi>S. Griffin,</hi> for <hi>John Playford</hi> at his ſhop in the Temple near the Ch<gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>9.</p>
+         </div>
+         <div type="letter_of_introduction">
+            <pb facs="tcp:97514:2" rendition="simple:additions"/>
+            <head>A LETTER from DUBLIN To a Friend in LONDON.</head>
+            <opener>
+               <salute>Worthy Sir.</salute>
+            </opener>
+            <p>NOtwithſtanding I have wrote to you by this very Poſt incloſed to my friend, yet ſince its delivery into the Poſt-houſe there having hap<g ref="char:EOLhyphen"/>pened, ſudden and unexpected Changes which has not only retarded the uſual paſs of the Poſt but much amuſed the people in this Nation. But as it has its original in <hi>Ireland,</hi> yet doth it chiefly concern <hi>England;</hi> It being intentionally to aſſert the privileges of the Nations, in indea<g ref="char:EOLhyphen"/>vouring to remove us out of that ſervitude in which we have been for ſome years detained under: but Sir, not to keep you in ſuſpence, know that theſe perſons here remonſtrating were oppoſed by Sir <hi>Har. Waller,</hi> with ſome other few Commanders, who with two Companies of Foot ſe<g ref="char:EOLhyphen"/>cured <hi>Dublin</hi> Caſtle which was this day delivered into the hands of the Remonſtrators, as <hi>Sir Cha: Coote. Sir Theo. Jones,</hi> and the reſt, I having incloſed the Declaration; Sir, ſhall not need to give you any other further account but that I am</p>
+            <closer>
+               <signed>Your Servant. W. G.</signed>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>Februory <hi>18. 1659</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:97514:2"/>
+            <head>The Declaration of the Army in <hi>Ireland;</hi> Dated from <hi>Dublin</hi> Feb. 16. 1659.</head>
+            <p>SInce the Authority of Parliament became openly violated, and that by their own waged ſervants of the Army in <hi>England,</hi> by whom 41. of the Members of Parliam. were torn from the Parliament Houſe in <hi>Decem.</hi> 1648. and impriſoned, and 160. other Members denied entrance into the Houſe, and about 50. more voluntarily withdrew themſelves to avoid violence, making in all of excluded Members about 250. when the remain<g ref="char:EOLhyphen"/>ing Members charged the Army with the guilt of that force, and ſent to the then General of the Army for reſtitution of thoſe excluded Members, which was denied them, how many and manifold have been the Miſeries and Calamities under which theſe Nations have laboured, and do ſtill labour, is evident to all equall minded men; The godly Miniſters of the Goſpel deſpiſed, the Mini<g ref="char:EOLhyphen"/>ſtry it ſelf vilified, Tythes and other means of their maintenance (particularly in <hi>Ireland</hi>) taken from them and miſapplied; The Proteſtant Religion ſha<g ref="char:EOLhyphen"/>ken and almoſt overturned, Anabaptiſts, Quakers, and other Sectaries, ſet up and countenanced, Hereſies and Schiſms encreaſed; The Fundamental Laws of the Land trampled upon, and an Arbitrary Government endeavoured to be introduced; The Civil Rights, Properties, and Liberties of the people, in their perſons and Eſtates, broken in pieces; Impoſitions and Taxes on the people without example laid, and increaſed in an exceſſive manner and mea<g ref="char:EOLhyphen"/>ſure, whereby thouſands of Families, have been ruined, and enforced to beg their bread; Manufacture at home diſcouraged, Publick Trade and Com<g ref="char:EOLhyphen"/>merce abroad interrupted; The Nations become deeply indebted, and gene<g ref="char:EOLhyphen"/>rally impoveriſhed; the Reformed Proteſtant Churches abraad expoſed to great danger, wanting the wonted ſupport of <hi>England,</hi> which (under God) was the Bulwork and chief ſtrength of the Proteſtant Religion throughout all Chriſtendome; and finally the <hi>Engliſh</hi> Nation (which was alwaies deſer<g ref="char:EOLhyphen"/>vedly) in ſo high honour and eſtimation at home and abroad, as it was a bridle and terrour to their Enemies, and a countenance and ſupport to their Friends and Allies, is now become (we tremble and grieve to have ſo juſt cauſe to ſpeak it) a ſcorn and deriſion to all Nations round about us; &amp; all this brought to paſs to ſatisfie the Avarice, Ambition, Luſts and Fears of a few in<g ref="char:EOLhyphen"/>conſiderable perſons of Anabaptiſtical and other Fanatick Spirits, who have made it their buſineſs to occaſion ſtil one trouble on the neck of another, ſo to embroyl and continue the Nations in Diviſion, War, and bloody Confuſions, that ſober men might not have time or leiſure (with maturity of judgement or Council) to look ino the inwards of their deſigns or actings. And after we had beheld all this with bleeding hearts, and calling to mind that when
+<pb n="2" facs="tcp:97514:3"/>in <hi>December</hi> 1648 the ſaid force was put upon the Parliament, the then re<g ref="char:EOLhyphen"/>maining Members ſent ſundry times to the Generall to know why he im<g ref="char:EOLhyphen"/>priſoned their Members, and deſired him to ſet them at liberty, which was not done, and we gathering from all this, that if the Houſe were once freed from the force of an Army, &amp; they again reſtored to Freedom and Liberty of ſitting &amp; acting, they would then upon the former grounds (in conſcience of their duties to God and their Country, &amp; in teſtimony of their reſentment of that breach of priviledges of the Parliament, have taken into the Houſe thoſe excluded Members, and filled vacant places by due and orderly elections of the people) and after ſo many years unhappy interruption unite again in a Full and Free Parliament, (and there aſſert the Rights and Priviledges of Parliament, and Libertyes of the people, which from the very beginning of the War of <hi>England,</hi> have been not the leaſt ground of their conteſt with the late King, and ever ſince; and joyn their councils and endeavours for reſto<g ref="char:EOLhyphen"/>ring theſe Nations to Peace and Tranquillity.</p>
+            <p>And thence it was, that on the 14 day of <hi>December</hi> 1659 ſeveral Officers of the army here, on behalf of themſelves and thoſe under their commands, by their joynt Declaration, declared and publiſhed their ſtedfaſt reſolutions to adhere to the Parliament in the defence of its Priviledges, and the juſt Rights and Liberties of the people of theſe Nations as Men and Chriſtians; In which Declaration afterwards concurred the whole Army of <hi>Ireland,</hi> but now finding much contrary to our expectations, that when the Members of Parliament now aſſembled at <hi>Weſtminster,</hi> were in <hi>December</hi> 1659. (by an extraordinary providence) reſtored to their Freedom and Liberty of ſitting and acting as in Parliament; and that divers of thoſe formerly excluded Members of Parliamnet on the 27. of <hi>December</hi> 1659. (as they had for<g ref="char:EOLhyphen"/>merly done in <hi>May</hi> 1659.) offered themſelves to diſcharge their Truſts for the ſeverall Counties and places for which they were elected, and formerly ſerved; thoſe their fellow Members aſſembled at <hi>Weſtminſter,</hi> did not onely deny them admittance, but alſo voted and ordered the utter excluſion of all the excluded Members with this further addition, That none of them ſhould be choſen in future Elections to ſit in Parliament, whereby they have by a more unnatural violence taken away from above the one half of the people of <hi>England,</hi> their Repreſentatives in Parliament, and limited and abridged in a high degree the Liberty &amp; Freedom of the people in future Elections, which denial and order of theirs in a time when they were under no force, is ſo much the more ſtrange, in regard that in <hi>December</hi> 1648. when they were under a force, they transferred that guilt from themſelves to the Army, and pretended a willingneſs to readmit thoſe Members if it were in their power as as is for<g ref="char:EOLhyphen"/>merly mentioned.</p>
+            <p>And whereas Lt. Gen. <hi>Ludlow</hi> had placed in <hi>Ireland</hi> ſeveral Officers who are Anabaptiſts, and perſons of the like fanatique ſpirits, (many of whom had
+<pb n="3" facs="tcp:97514:3"/>been very active in the late conſpiracies and actings of the factious part of the Army in <hi>England,</hi> even againſt thoſe members of Parliament now ſitting at <hi>Weſtminſter,</hi> of which Officers ſo placed by Lt. Gen. <hi>Ludlow,</hi> it was found neceſſary to purge the Army, and to put in their places perſons more ſoberly minded and well affected to the Parliament; yet after all that done, and af<g ref="char:EOLhyphen"/>ter Lt. Gen. <hi>Ludlow</hi> ſtood juſtly and deſervedly charged wish High-Treaſon, the ſaid Lt. Gen <hi>Ludlow</hi> himſelf, and ſome others of the like principles with him, were by a report from the Council of State propoſed to be appointed to govern not only the Army, but alſo the whole Nation of <hi>Ireland,</hi> to the aſto<g ref="char:EOLhyphen"/>niſhment of the people and Army here, to the unſetling of thoſe perſons ſo well deſerving, to the hazard of the peace of the Nation &amp; Army, (and which is above all) to the endangering even of Religion it ſelf. And here it is obſer<g ref="char:EOLhyphen"/>vable that thoſe Members now ſitting at <hi>Weſtminſter</hi> by their Declaration of <hi>Ian.</hi> 23. 1659. ſince their reſtitution to their pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent liberty of ſitting) have publiſhed that extravagant Councils &amp; actions, have engaged the Nations in a great debt and charge, which it ſeems neceſſitates their laying a new increaſe of charge on the Nations, and yet ſo indulgent they are to thoſe perſons that in a high degree created that neceſſity of ſo unreaſonably charging the peo<g ref="char:EOLhyphen"/>ple, and whoſe Eſtates might well bear a great part of that burden, as with<g ref="char:EOLhyphen"/>out ſo much as any ſuit made to them by thoſe Delinquents, they granted them indempnity for their perſons and Eſtates, whereby it ſeems the ſaid Members now ſitting at <hi>Weſtminſter,</hi> hold it fit that thoſe who are of ſober ſpirits, and offended not the Parliament, ſhould out of their Eſtates pay for thoſe extravagant mens Delinquencie, rather then the Delinquents them<g ref="char:EOLhyphen"/>ſelves. And although the ſaid Lt. Gen. <hi>Ludlow,</hi> (and <hi>Miles Corbet</hi> Eſq to<g ref="char:EOLhyphen"/>gether with Col. <hi>I. Iones</hi> and Col. <hi>Mat. Thomlinſon</hi>) ſtand impeached from hence moſt juſtly of high-Treaſon, and that charge againſt them being known to the Houſe, and there remaining, yet they have admitted two of thoſe perſons, namely the ſaid Lt. Gen. <hi>Ludlow,</hi> and <hi>Miles Corbet</hi> actually to ſit in the ſaid Houſe.</p>
+            <p>And now the greatneſs of thoſe miſeries which have befallen theſe three Nations in general, by ſuch late actings in <hi>England,</hi> and thoſe heightned with many aggravations in the circumſtances of them, (too many and too long to be repeated) as it hath begotten in us and in all good men in the three Nations deep impreſſion of aſtoniſhment and horror, ſo it is evident, that if it be any longer continued, it will perpetually nouriſh diſ-honour to God, greif to all good men, and (we doubt and fear) utter infamy and deſtruction to the three Nations.</p>
+            <p>In contemplation whereof, and conſidering how God hath in his juſtice blaſted all attempts that ſince the year 1648. have been made for reſetling of theſe Nations in peace and tranquility, and that after all the tryals and vari<g ref="char:EOLhyphen"/>ous changes of Government which we have in all that time with much long
+<pb n="4" facs="tcp:97514:4"/>ſuffering and patience endured, there is no way viſible to us undrer Heaven whence deliverance may probably be wrought or expected, but from the care and wiſdom of a Free and full Parliament in <hi>England,</hi> which (by the experience of all former ages hath been found the beſt and only expedient for providing remedies, to be applyed to ſo great and General miſchiefs ari<g ref="char:EOLhyphen"/>ſing in Church or State. And conſidering alſo that the marks of the true re<g ref="char:EOLhyphen"/>formed Religion according to the word of God, and of the fundamental Laws of the Land, and of our now dying Liberties and Freedom, are not yet ſo utterly razed and defaced, but that ſome footſteps do yet remain, ſo as (by the wiſdom of a full and Free Parliament) they may be again renewed and firmly re-eſtabliſhed; and conſidering likewiſe that our hopes of having the ſaid excluded Members reſtored, and of new elections to be made for vacant places, whereby there might be a full and Free Parliament, as there was on the fifth day of <hi>December</hi> 1648, and the ancient and long conteſted-for Li<g ref="char:EOLhyphen"/>berties of the people might be aſſerted, are much contrary to our expectati<g ref="char:EOLhyphen"/>ons, and contrary to the fundamental Laws of the Land, and indeed contrary to all juſtice and reaſon become fruſtrated; and conſidering further how unjuſt and unreaſonable a thing it is, that of above 500. Members, whereof the Commons Houſe of Parliament uſually conſiſted, there were but 44 or there<g ref="char:EOLhyphen"/>abouts, when that fatal vote paſſed for the keeping out the aforeſaid exclu<g ref="char:EOLhyphen"/>ded Members, by the prevalency of a major part of the ſaid 44 perſons (not much exceeding thoſe who voted then on the contrary ſide,) which aſſumes to it ſelf the Supream Authority, not only of <hi>England,</hi> but alſo of the three Nations, without Precedent or example of any former age, here being above 250 which ſtand eleven years excluded, without ſo much as the leaſt offer of an impeachment againſt them in all that time, which unexampled and unpa<g ref="char:EOLhyphen"/>rallel'd aſſumption in thoſe men is not poſſible to continue but by the force of an Army poiſoned with Anabaptiſtical and corrupted principles, to the continual grief and unſupportable burden and charge of the three Nations</p>
+            <p>And beſides that act of the aforeſaid perſons chaſing away (for ſo it now appears) about 250. Members, of above 500 choſen by all the ſeveral parts of <hi>England,</hi> according to the known Laws of the Land, to repreſent the whole Nation in Parliament; and after the forcible excluſion of ſo many that the 44 perſons remaining (amongſt whom we believe there are ſome worthy Patriots who are not ſo fully concurring in the acting of the reſt of their number, as violently overvoted by them, which is a further aggravation of the others guilt) ſhould dare to uſurp to themſelves as is formerly mentio<g ref="char:EOLhyphen"/>ned contrary to all Laws, the ſupream power not only of <hi>England,</hi> but al<g ref="char:EOLhyphen"/>ſo of <hi>Ireland,</hi> and <hi>Scotland,</hi> is a thing which none but conquerers or Tyrants would attempt, and in all circumſtances is ſo hideous and monſtrous to be en<g ref="char:EOLhyphen"/>dured by a free people, formerly famous to all the world for wiſdom and va<g ref="char:EOLhyphen"/>lour as the Engliſh Nation have been, as it will be incredible to all poſterity.</p>
+            <pb n="5" facs="tcp:97514:4"/>
+            <p>And laſtly conſidering that as in all ages, and more particularly ſince the be<g ref="char:EOLhyphen"/>ginning of the late horrid Rebellion in <hi>Ireland,</hi> our brethren in <hi>England</hi> have abundantly manifeſted a tender and compaſſionate ſence of the conditi<g ref="char:EOLhyphen"/>on of <hi>Ireland,</hi> and were careful to relieve us in our loweſt eſtate, as bone of their bone, and fleſh of their fleſh; which we do, and ſhall ever acknowledge with humble thankfulneſſe, and (as a debt which we well know to be due from us to them above all people in the world,) ſhall be for ever as tender of their happineſſe and welfare as of our own, which indeed is involved in theirs, and without whom <hi>Ireland</hi> cannot be happy. We therefore remain<g ref="char:EOLhyphen"/>ing conſtant in the reaſons of our ſaid Declaration of the 14 of <hi>December</hi> 1659. for adhering to the Parliament in defence of it's priviledges, and the juſt Rights and Liberties of theſe Nations; all which we ſee now are apparently more and more violated by the not admiſſion of the ſaid excluded members, and by not filling the vacant places, whereby the Houſe might be full, and being freed from force, might uninterruptedly act according to their judge<g ref="char:EOLhyphen"/>ments and conſciences towards reſettling the peace of theſe Nations, which otherwiſe in all humane probability can never be reſtored to peace and tranquillity.</p>
+            <p>We do therefore declare for a free and full Parrliament in <hi>England,</hi> con<g ref="char:EOLhyphen"/>ſiſting not only of thoſe that ſat on the 11 of <hi>October</hi> 1659. but alſo of all ſuch of the members of Parliament impriſoned, excluded, or withdrawn in <hi>December</hi> 1648. as are yet living; whom we deſire may be reſtored to the freedom and liberty of ſitting, and acting according to the truſts committed to them by the ſeveral Counties and places which did chuſe them, that ſo they may be no longer debarred from diſcharging their ſaid Truſts, and that va<g ref="char:EOLhyphen"/>cant places may be ſpeedily ſupplied by free and due Elections of the people, yet ſo as none of the perſons to be admitted or elected be any of thoſe who have been in Arms, or otherwiſe ayding, abetting, or aſſiſting the late King or his Son in the late war againſt the Parliament; and that the Houſe being ſo fil<g ref="char:EOLhyphen"/>led, may proceed unanimouſly to conſult the beſt means for reſettling the peace of the Nations, the re-eſtabliſhment of true Religion, (the ſureſt foun<g ref="char:EOLhyphen"/>dation, as of all righteous Government, ſo of all the happineſs of a Nation) the fundamental Laws of the Land (whereby all mens rights and properties are preſerved) and the liberties and freedom of the people, which are ſup<g ref="char:EOLhyphen"/>ported by thoſe Laws.</p>
+            <p>And for thoſe ends, and in diſcharge of our duty to God and to our Coun<g ref="char:EOLhyphen"/>try, We do reſolve (by the bleſſing of Almighty God) to joyn with all our Brethren in <hi>England, Ireland,</hi> and <hi>Scotland,</hi> who have or ſhall joyn with us for the ends aforeſaid: and do reſolve for the maintenance and preſer<g ref="char:EOLhyphen"/>vation thereof to hazard our Lives and Eſtates, and all that is dear to us: and we doubt no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but all our Brethren in the ſaid Nations, who diſdain to be made Slaves, will joyn with us herein, as being with wiſdom and reaſon de<g ref="char:EOLhyphen"/>ſirous
+<pb n="6" facs="tcp:97514:5"/>to deliver over to their Poſterity, that liberty and freedom, which was conveyed to them at ſo dear a rate by our Anceſtors: And then we truſt, that by the great mercy of God, will ſpeedily follow a happy ſettlement of theſe yet miſerable and diſtracted Nations; and conſequently that the true Proteſtant Religion in the power and purity thereof may be eſtabliſhed; the Godly, Learned and Orthodox Miniſters of the Goſpel maintained by their Tythes, and other their accuſtomed Rights; their perſons ſupported and countenanced; the Univerſities and all other Seminaries of Learning cheriſh<g ref="char:EOLhyphen"/>ed; Hereſies and S<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppreſſed; needleſs Impoſitions and Taxes on the people removed; a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d no charge to be laid on any of the Nations without their own free conſents, given by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſentatives in their ſeveral and reſpective Parliaments, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nufactu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and publick Trade and Commerce, at home and abroad ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anced; Ju<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e in its due and wonted courſe admini<g ref="char:EOLhyphen"/>ſtred; The juſt deb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Nati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſatisfied; The Treaſures and Revenews thereof preſerved and returned to their right and proper Channels; The ar<g ref="char:EOLhyphen"/>rears of the Army, and other publick debts duly ſatisfied; The Armies and Forces continued in due obedience to the ſupreme authority, and not pre<g ref="char:EOLhyphen"/>ſume as ſome have done, to give Laws thereunto, which hath been the root, of a great part of our miſeries; The Nations Enriched, United, Strengthened; The Reformed Proteſtant Churches abroad ſupported and countenanced; The Honour of the Engliſh Nation reſtored to the comfort of Friends and terror of Enemies; The Plantation of <hi>Ireland</hi> in the Hands of Adventurers and Souldiers, and other Engliſh and Proteſtants, Advanced as a further ac<g ref="char:EOLhyphen"/>ceſſion of honour and greatneſs to the Engliſh Nation; And ſo by the bleſ<g ref="char:EOLhyphen"/>ſing of God all will ſhortly terminate in the glory of God, the peace and tranquility of theſe Nations, the ſtrengthening of them againſt foraign in<g ref="char:EOLhyphen"/>vaſion and inteſtine Rebellion, and the comfort, contentment and ſatisfacti<g ref="char:EOLhyphen"/>on of all the good people in theſe Nations: <hi>Which the Lord of his Mercy grant.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Dated at Dublin</hi> 
+                  <date>
+                     <hi>the</hi> 16. <hi>of Febr.</hi> 1659.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Sir <hi>Cha. Coote</hi> Ea.</item>
+                     <item>
+                        <hi>Willi. C<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                              <desc>••••••</desc>
+                           </gap>ld</hi>
+                     </item>
+                     <item>Sir <hi>Theo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ones</hi>
+                     </item>
+                     <item>Sir <hi>Oli. S. George</hi>
+                     </item>
+                     <item>Sir <hi>Hen. Ingoldsby</hi>
+                     </item>
+                     <item>Sir <hi>John King</hi>
+                     </item>
+                     <item>Col <hi>Chidley Coote</hi>
+                     </item>
+                     <item>Col. <hi>John Cole</hi>
+                     </item>
+                     <item>Col <hi>Willi. Warden</hi>
+                     </item>
+                     <item>Col. <hi>Richard Coote</hi>
+                     </item>
+                     <item>Col. <hi>John Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ges</hi>
+                     </item>
+                     <item>Col. <hi>Hen. Owen</hi>
+                     </item>
+                     <item>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Col. <hi>The Scot</hi>
+                     </item>
+                     <item>L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>W. Purefoy</hi>
+                     </item>
+                     <item>Lt. Col. <hi>Oliver Jo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>s</hi>
+                     </item>
+                     <item>Maj. <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m. Barrington</hi>
+                     </item>
+                     <item>Maj. <hi>Alex. Staples</hi>
+                     </item>
+                     <item>Maj. <hi>Rich. B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>gley</hi>
+                     </item>
+                     <item>Maj. <hi>George Pepper</hi>
+                     </item>
+                     <item>Lt. Col. H. <hi>Smith<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ck</hi>
+                     </item>
+                     <item>Cap. <hi>Hen. Baker.</hi>
+                     </item>
+                     <item>Cap. <hi>Rob. ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> Ge<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Cap <hi>Cha. W<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>.</hi>
+                     </item>
+                     <item>Cap. <hi>Adam <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi>
+                     </item>
+                     <item>Col. <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Barrow.</hi>
+                     </item>
+                     <item>Cap. <hi>S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Cap <hi>John Sal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Cap. <hi>Simon Ga<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Col <hi>Cha. Blunt</hi>
+                     </item>
+                     <item>Col. <hi>Hen. Slade</hi>
+                     </item>
+                     <item>Cap. <hi>Ant. Stamp</hi>
+                     </item>
+                     <item>Cap. <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t Purefoy</hi>
+                     </item>
+                     <item>Cap. <hi>George S. George</hi>
+                     </item>
+                     <item>Cap. <hi>Peter Purefoy</hi>
+                     </item>
+                     <item>Cap. <hi>Thomas Cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e.</hi>
+                     </item>
+                     <item>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m. Newco<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Cap. <hi>Thom. N<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                              <desc>••••••</desc>
+                           </gap>gh</hi>
+                     </item>
+                     <item>C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>en. Thrimpton</hi>
+                     </item>
+                     <item>Lt. <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>gh. Clotworthy</hi>
+                     </item>
+                     <item>Lt. <hi>Peter Flower</hi>
+                     </item>
+                     <item>Lt. <hi>Her. Langriſh</hi>
+                     </item>
+                     <item>Lt. <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>chard Morric<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Lt. <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ian Jaques</hi>
+                     </item>
+                     <item>Lt. <hi>Richard Butler</hi>
+                     </item>
+                     <item>Lt. <hi>John Ottway</hi>
+                     </item>
+                     <item>Lt. <hi>Thomas Evelin</hi>
+                     </item>
+                     <item>Lt. <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mas Flint</hi>
+                     </item>
+                     <item>Lt. <hi>Ldw. Harrington</hi>
+                     </item>
+                     <item>Cornet <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t. <g ref="char:V">Ʋ</g>ſher.</hi>
+                     </item>
+                     <item>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rn. <hi>Donw. Prothero</hi>
+                     </item>
+                     <item>Cor. <hi>W. Pinſent.</hi>
+                     </item>
+                     <item>Enſigo <hi>John Head</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sheppard</hi> Mar. G.</item>
+                     <item>
+                        <hi>Qu.</hi> Mr. <hi>W. Flood</hi>
+                     </item>
+                     <item>
+                        <hi>John Payne</hi> Comon.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:97514:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
